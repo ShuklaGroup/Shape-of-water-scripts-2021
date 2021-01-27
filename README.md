@@ -1,5 +1,5 @@
 # Shape-of-water-scripts-2021
-Scripts used for analysis of MD simulations for The Shape of Water in Zeolites and its Impact on Epoxidation Catalysis by Bregante et al.
+Scripts used for analysis of MD simulations for *The Shape of Water in Zeolites and its Impact on Epoxidation Catalysis* by Bregante *et al.*
 
 Dependencies:
 `mdtraj`  https://mdtraj.org/1.9.4/index.html
