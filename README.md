@@ -1,6 +1,8 @@
 # Scripts for *The Shape of Water in Zeolites and its Impact on Epoxidation Catalysis*
 Scripts used for analysis of MD simulations for *The Shape of Water in Zeolites and its Impact on Epoxidation Catalysis* by Bregante *et al.*
 
+Check out our preprint here: https://doi.org/10.26434/chemrxiv.13288805
+
 Dependencies:
 `mdtraj`  https://mdtraj.org/1.9.4/index.html
 
